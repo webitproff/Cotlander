@@ -1,6 +1,6 @@
 # CotLander
-Landing Page - free theme for Cotonti Siena
-Бесплатный шаблон для Cotonti Siena в виде лендингпейдж.
+# Landing Page - free theme for Cotonti Siena
+# Бесплатный шаблон для Cotonti Siena в виде лендингпейдж.
 
 ##обратная связь, сообщения об ошибках и поддержка##
 
